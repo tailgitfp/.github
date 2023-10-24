@@ -1,0 +1,5 @@
+# sharing knowledge , closed - atm
+* To learn
+**  calling a child flake , flake comapt
+**  overlay and unstable
+**  wayland
