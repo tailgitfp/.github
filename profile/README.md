@@ -10,4 +10,11 @@
 🍿 Fun facts - Too new to comment 
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
--  🙋‍♀️ Just another guy in to FOSS , Web of Trust, OPENPGP, TAILSCALE , {BASH, ELISP,NIX RECIPES - functor/types , fixed point and types} for BUILD,infra AUTOMATION ci/cd, ISOLATED envs
+# Intro
+-  🙋‍♀️ Just another guy in to FOSS , Web of Trust, OPENPGP, TAILSCALE , {BASH, ELISP,NIX RECIPES - paths,functor/types , fixed point and types} for BUILD,infra AUTOMATION ci/cd, ISOLATED envs.
+-  Contribution guidelines 
+    - Send or merge PRs, add bots ,raise issues, discuss, fix some of them, brnach rules ci/cd automated with bash, help with self hosting.
+- 👩‍💻 Useful resources
+    -  To be added     
+
+   
